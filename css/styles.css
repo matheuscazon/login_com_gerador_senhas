@@ -34,3 +34,18 @@ input {
   background-position: center;
   width: 50%;
 }
+
+#banner-layer {
+  background-color: rgba(25, 11, 122, 0.7);
+  height: 100%;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+#register-banner h1 {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  color: #fff;
+  word-spacing: 50rem;
+}
